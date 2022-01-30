@@ -1,6 +1,6 @@
 # TrackmaniaItemsSorted
 
-The complete sorted item pack of all the important items from item exchange. 
+The complete sorted item pack of all the important custom items fir trackmania mapping, most of which are from item exchange.
 
 
 This includes almost all the useful route item sets as well as some scenery sets that were relatively generic. Few scenery items have been included as they are usually used for one specific map idea, so if you want them you can get more from [Item Exchange](https://item.mania.exchange) 
