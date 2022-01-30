@@ -3,15 +3,15 @@
 The complete sorted item pack of all the important items from item exchange. 
 
 
-This includes almost all the useful route item sets as well as some scenery sets that were relatively generic. Few scenery items have been included as they are usually used for one specific map idea, so if you want them you can get more from https://item.mania.exchange
+This includes almost all the useful route item sets as well as some scenery sets that were relatively generic. Few scenery items have been included as they are usually used for one specific map idea, so if you want them you can get more from [Item Exchange](https://item.mania.exchange) 
 
-If you have a question or problem, there is a 99% chance it can be answered by reading everything here, but if not then you can open an issue or nag me in my discord because I rarely check github https://discord.gg/sRB54zg
+If you have a question or problem, there is a 99% chance it can be answered by reading everything here, but if not then you can open an issue or nag me in my [discord](https://discord.gg/sRB54zg) because I rarely check github.
 
 -----------------------------------
 
 ## Instructions (AT LEAST READ STEP 2):
 
-1: Download the zip file of the latest release from the releases tab on the right. (https://github.com/That-Ski-Freak/TrackmaniaItemsSorted/releases here is the link for those of you who do not like looking)
+1: Download the zip file of the latest release from the releases tab on the right. ([here](https://github.com/That-Ski-Freak/TrackmaniaItemsSorted/releases) is the link for those of you who do not like looking)
 
 2: It is HIGHLY recommended to remove all files from your Documents\Trackmania\Items AND Documents\Trackmania\Blocks and back them up somewhere else on your computer. This is to avoid having duplicate items which can cause issues and frustration.
 
@@ -55,13 +55,13 @@ Trackmania sorts the items in the item folder by reverse alphabetical order. Tha
 
 
 Here are some sets excluded for either cluttering up the editor or being nearly pointless imo, but you may consider downloading yourself and adding them to the USER_ITEMS_HERE folder:  
-* Icy campaign items - https://item.exchange/set/view/11164  
-* Dirt road conversion - https://item.exchange/set/view/11244  
-* Grass road conversion - https://item.exchange/set/view/11261  
-* Plastic road borders - https://item.mania.exchange/set/view/11220  
-* Tilted Holes - https://item.exchange/set/view/11065  
-* Extra bobsled items - https://item.exchange/set/view/10860  
-* The winter 2021 tmgl items - https://item.exchange/set/view/10616  
+* [Icy campaign items](https://item.exchange/set/view/11164)  
+* [Dirt road conversion](https://item.exchange/set/view/11244)  
+* [Grass road conversion](https://item.exchange/set/view/11261)  
+* [Plastic road borders](https://item.mania.exchange/set/view/11220)  
+* [Tilted platform holes](https://item.exchange/set/view/11065)  
+* [Extra bobsled items](https://item.exchange/set/view/10860)  
+* [The winter 2021 tmgl items](https://item.exchange/set/view/10616)  
 
 --------------------------------------
 
