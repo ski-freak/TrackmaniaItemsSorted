@@ -27,27 +27,15 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 Most items are in the item mode of the editor and sorted, if you look in the bottom right you can see the folder names as you hover over them. There are 10 main folders which all other folders are in:
 
-Road Extentions - More basic road shapes.  
-Alt Road - Roads that didn't fit into the first road folder, more unique shapes, and items that aren't really roads themselves but intended to be used with them.  
-Platform Extentions - More basic platform shapes.  
-Alt Platform - Platforms that didn't fit in the other platform folders, partial platforms, platform ramps, etc.  
-Halfbank Platform - Platforms at the road bank/slope.
-Inversions - Wallrides, quartarpipes, etc. The fullspeed blocks.
-Narrow - The narrow platform/road hybrid blocks, as well as teroor's narrow dirt and concrete items.
-Scenery - Numbers, lights, decals for poles, extra supports, road edge lights, + some conventional scenery items.
-Checkpoints - Custom Starts, checkpoints, and finishes.
-
- Markup : * Road Extentions - More basic road shapes.
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Alt Road - Roads that didn't fit into the first road folder, more unique shapes, and items that aren't really roads themselves but intended to be used with them.
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+* Road Extentions - More basic road shapes.  
+* Alt Road - Roads that didn't fit into the first road folder, more unique shapes, and items that aren't really roads themselves but intended to be used with them.  
+* Platform Extentions - More basic platform shapes.  
+* Alt Platform - Platforms that didn't fit in the other platform folders, partial platforms, platform ramps, etc.  
+* Halfbank Platform - Platforms at the road bank/slope.
+* Inversions - Wallrides, quartarpipes, etc. The fullspeed blocks.
+* Narrow - The narrow platform/road hybrid blocks, as well as teroor's narrow dirt and concrete items.
+* Scenery - Numbers, lights, decals for poles, extra supports, road edge lights, + some conventional scenery items.
+* Checkpoints - Custom Starts, checkpoints, and finishes.
 
 
 Block items however I cannot control where they go. The game places them in with the vanilla blocks in block mode (f2). **Most require you to use air mode.**
