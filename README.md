@@ -37,6 +37,18 @@ Narrow - The narrow platform/road hybrid blocks, as well as teroor's narrow dirt
 Scenery - Numbers, lights, decals for poles, extra supports, road edge lights, + some conventional scenery items.
 Checkpoints - Custom Starts, checkpoints, and finishes.
 
+ Markup : * Road Extentions - More basic road shapes.
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Alt Road - Roads that didn't fit into the first road folder, more unique shapes, and items that aren't really roads themselves but intended to be used with them.
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
 
 Block items however I cannot control where they go. The game places them in with the vanilla blocks in block mode (f2). **Most require you to use air mode.**
 
