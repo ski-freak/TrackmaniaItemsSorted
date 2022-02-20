@@ -62,6 +62,7 @@ Here are some sets excluded for either cluttering up the editor or being nearly 
 * [Tilted platform holes](https://item.exchange/set/view/11065)  
 * [Extra bobsled items](https://item.exchange/set/view/10860)  
 * [The winter 2021 tmgl items](https://item.exchange/set/view/10616)  
+* [Some gps items](https://item.exchange/set/view/10883)
 
 --------------------------------------
 
