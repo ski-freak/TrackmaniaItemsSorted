@@ -9,7 +9,7 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 -----------------------------------
 
-## Instructions (AT LEAST READ STEP 2):
+## Instructions:
 
 1: Download the zip file of the latest release from the releases tab on the right. ([here](https://github.com/That-Ski-Freak/TrackmaniaItemsSorted/releases) is the link for those of you who do not like looking)
 
@@ -17,7 +17,7 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 3: Put the zip file into Documents\Trackmania\Items
 
-4: Right click on the zip file and "extract here".
+4: Right click on the zip file and "extract here". Make sure you are extracting to the items folder and not to a sub folder with the name of the zip folder.
 
 5: Next time you (re)launch the game you should see the items in the item mode (f3). Tf they are not, you messed something up.
 
