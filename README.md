@@ -19,7 +19,7 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 4: Right click on the zip file and "extract here". Make sure you are extracting to the items folder and not to a sub folder with the name of the zip folder.
 
-5: Next time you (re)launch the game you should see the items in the item mode (f3). Tf they are not, you messed something up.
+5: Next time you (re)launch the game you should see the items in the item mode (f3). If they are not, you messed something up.
 
 --------------------------------------
 
@@ -59,8 +59,6 @@ Here are some sets excluded for either cluttering up the editor or being nearly 
 * [Dirt road conversion](https://item.exchange/set/view/11244)  
 * [Grass road conversion](https://item.exchange/set/view/11261)  
 * [Plastic road borders](https://item.mania.exchange/set/view/11220)  
-* [Tilted platform holes](https://item.exchange/set/view/11065)  
-* [Extra bobsled items](https://item.exchange/set/view/10860)  
 * [The winter 2021 tmgl items](https://item.exchange/set/view/10616)  
 * [Some gps items](https://item.exchange/set/view/10883)
 
