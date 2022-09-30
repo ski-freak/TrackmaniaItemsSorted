@@ -27,13 +27,14 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 Most items are in the item mode of the editor and sorted, if you look in the bottom right you can see the folder names as you hover over them. There are 10 main folders which all other folders are in:
 
+* Juice items - Mirrors the structure of the vanilla blocks but with more/different shapes.
 * Road Extentions - More basic road shapes.  
 * Alt Road - Roads that didn't fit into the first road folder, more unique shapes, and items that aren't really roads themselves but intended to be used with them.  
 * Platform Extentions - More basic platform shapes.  
 * Alt Platform - Platforms that didn't fit in the other platform folders, partial platforms, platform ramps, etc.  
-* Halfbank Platform - Platforms at the road bank/slope.
 * Inversions - Wallrides, quartarpipes, etc. The fullspeed blocks.
 * Narrow - The narrow platform/road hybrid blocks, as well as teroor's narrow dirt and concrete items.
+* Misc. - Random stuff, tm2 blocks, non vanilla effects, half blocks, etc.
 * Scenery - Numbers, lights, decals for poles, extra supports, road edge lights, + some conventional scenery items.
 * Checkpoints - Custom Starts, checkpoints, and finishes.
 
@@ -71,3 +72,6 @@ A: The magnets most people used for a long time were created shortly after the g
 
 Q: "Why is Y item(s) not included?"  
 A: Either I didn't know it existed (unlikely), they were released recently and I haven't updated yet, they are scenery, or the items were so poorly made I excluded them for that reason.  
+
+Q: "Why is X broken ReallyMad"  
+A: Becuase you didn't follow the instructions.
