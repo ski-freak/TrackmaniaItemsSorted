@@ -42,10 +42,8 @@ Most items are in the item mode of the editor and sorted, if you look in the bot
 Block items however I cannot control where they go. The game places them in with the vanilla blocks in block mode (f2). **Most require you to use air mode.**
 
 * **Magnets are in with their normal platform counterparts.**  
-* Tm2 ramps are in 1-1-1-1  
-* Clip removers are in 1-1-1-4, 1-2-1-1, 1-1-1-4, 2-1-1-4, 3-1-1-4, and 4-1-1-4.  
-* There are overhang beam versions of rings in with the other rings at 12-2-1/2  
-* The road to platform clips are in 12-6-1  
+* Tm2 ramps are in 1-1-1-1   
+* There are overhang beam versions of rings in with the other rings at 12-2-1/2   
 * Stadium ground transitions are in 13-1-2-3-5/6. The grass remover is located in the same folder at 13-1-2-3-5-2 (you have to click the arrow to see it).
 
 --------------------------------------
