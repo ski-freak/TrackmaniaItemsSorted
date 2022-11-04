@@ -52,6 +52,8 @@ Block items however I cannot control where they go. The game places them in with
 
 Trackmania sorts the items in the item folder by reverse alphabetical order. That is why many folders have random letters or numbers preceding them, to force a spesific order.
 
+Known issue: Game doesn't load. The cause is having too many objects, tm is limited to 25k ish and this counts nadeo blocks, items, macros, and club items. If it doesn't load try removing all club items and old item folders and see if it works.
+
 
 Here are some sets excluded for either cluttering up the editor or being nearly pointless imo, but you may consider downloading yourself and adding them to the USER_ITEMS_HERE folder:  
 * [Icy campaign items](https://item.exchange/set/view/11164)  
