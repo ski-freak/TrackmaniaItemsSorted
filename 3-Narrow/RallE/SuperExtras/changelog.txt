@@ -1,0 +1,14 @@
+# v3 20240331
+
+Added clips to the ends of all items.
+Added straight U blocks.
+Added matching support items (PlatformBase).
+
+# v2 20240326
+
+Added flat No-Bank to Full-Bank items.
+Re-organized Full-Bank folder to accomodate new items.
+
+# v1 20240325
+
+Initial release.
