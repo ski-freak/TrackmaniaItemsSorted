@@ -7,6 +7,8 @@ This includes almost all the useful route item sets as well as some scenery sets
 
 If you have a question or problem, there is a 99% chance it can be answered by reading everything here, but if not then you can open an issue or nag me in my [discord](https://discord.gg/sRB54zg) because I rarely check github.
 
+# NOTE: Most of this readme is incredibly out of date, written years ago. Any information besides the instructions may or may not be correct. 
+
 -----------------------------------
 
 ## Instructions:
@@ -20,6 +22,8 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 4: Right click on the zip file and "extract here". Make sure you are extracting to the items folder and not to a sub folder with the name of the zip folder.
 
 5: Next time you (re)launch the game you should see the items in the item mode (f3). If they are not, you messed something up.
+
+## Or just clone the repo to your items folder!
 
 --------------------------------------
 
