@@ -13,7 +13,7 @@ If you have a question or problem, there is a 99% chance it can be answered by r
 
 ## Instructions:
 
-1: Download the zip file of the latest release from the releases tab on the right. ([here](https://github.com/That-Ski-Freak/TrackmaniaItemsSorted/releases) is the link for those of you who do not like looking)
+1: Download a zip file of the current version of the repo by clicking on the code button on this home page then clicking download zip.
 
 2: It is HIGHLY recommended to remove all files from your Documents\Trackmania\Items AND Documents\Trackmania\Blocks and back them up somewhere else on your computer. This is to avoid having duplicate items which can cause issues and frustration.
 
