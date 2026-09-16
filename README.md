@@ -60,6 +60,9 @@ Known issue: Game doesn't load. The cause is having too many objects, tm is limi
 
 
 Here are some sets excluded for either cluttering up the editor or being nearly pointless imo, but you may consider downloading yourself and adding them to the USER_ITEMS_HERE folder:  
+* [Roadside Transitions](https://item.exchange/set/view/13564)
+* [WTMT PlatformWood](https://item.exchange/set/view/13160)
+* [Vanilla+ Scenery Megapack](https://item.exchange/set/view/13666)
 * [Icy campaign items](https://item.exchange/set/view/11164)  
 * [Dirt road conversion](https://item.exchange/set/view/11244)  
 * [Grass road conversion](https://item.exchange/set/view/11261)  
